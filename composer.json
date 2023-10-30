@@ -1,0 +1,17 @@
+{
+    "name": "a.lesnikov/internshipproject",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "a.lesnikov"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
