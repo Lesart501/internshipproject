@@ -1,6 +1,7 @@
 {
     "name": "a.lesnikov/internshipproject",
     "type": "project",
+    "description": "A simple MVC app",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
